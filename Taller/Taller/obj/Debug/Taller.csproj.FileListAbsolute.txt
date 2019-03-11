@@ -1,0 +1,7 @@
+C:\Users\migue\Desktop\Universidad\Programacion\Taller\Taller\obj\Debug\Taller.csprojAssemblyReference.cache
+C:\Users\migue\Desktop\Universidad\Programacion\Taller\Taller\obj\Debug\Taller.csproj.CoreCompileInputs.cache
+C:\Users\migue\Desktop\Universidad\Programacion\Taller\Taller\bin\Debug\Taller.exe.config
+C:\Users\migue\Desktop\Universidad\Programacion\Taller\Taller\bin\Debug\Taller.exe
+C:\Users\migue\Desktop\Universidad\Programacion\Taller\Taller\bin\Debug\Taller.pdb
+C:\Users\migue\Desktop\Universidad\Programacion\Taller\Taller\obj\Debug\Taller.exe
+C:\Users\migue\Desktop\Universidad\Programacion\Taller\Taller\obj\Debug\Taller.pdb
