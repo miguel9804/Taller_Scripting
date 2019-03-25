@@ -1,0 +1,10 @@
+Cuando selecciono no ordenar los datos de los arreglos siempre los devuelve en orden ascendente.
+En general ninguna de las implementaciones muestra la colección original, de manera que sea fácil de verificar que los datos modificados correspondan al ejercicio.
+No funcionó la ejecución de ordenar los datos de la cola
+El orden ascendente y descendente están al revés (ascendente es de menor a mayor; descendente es de mayor a menor)
+Los algoritmos de colas se están ejecutando sobre la misma cola. debería ser una copia de la misma cola para probar la funcionalidad de cada método por separado.
+Por qué hay cosas que se responden con true/false y otras con si/no? No era más fácil poner a todo s/n, y/n o todo igual?
+La pila en descendente no arroja resultados.
+Después de querer ordenar la pila descendente, queda vacía.
+
+NOTA: 3.0 / 5.0
